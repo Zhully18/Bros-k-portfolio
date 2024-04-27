@@ -1,0 +1,60 @@
+const ResumeApi = [
+  {
+    id: 1,
+    category: "education",
+    year: "Lagos State Polytechnic (2007 - 2009)",
+    title: "Higher National Diploma(HND), Accounting",
+    desc: "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante.",
+    rate: "Full time",
+  },
+  {
+    id: 2,
+    category: "education",
+    year: "Naational Open University (2022 - 2023) ",
+    title: "Business Administration and Management",
+    desc: "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante.",
+    rate: "Full time",
+  },
+  {
+    id: 3,
+    category: "education",
+    year: " Simplilearn ",
+    title: "Business Analytics with Excel",
+    desc: "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante.",
+    rate: "Full time",
+  },
+  {
+    id: 4,
+    category: "experience",
+    year: "Ipsos Nigeria (2008 - 2016) ",
+    title: "Senior Data Forensics Manager",
+    desc: "Leading the Retail and Adhoc team in ensuring Data quality control and quality assurance. Leading the Retail Audit Data team in trending and modelling of monthly Retail Audit Data. Leading the Data Analytics team in reporting and bring out insight from large retail and census data sets using SPSS, R, Power BI and Excel etc.",
+    rate: "Full time ",
+  },
+  {
+    id: 5,
+    category: "experience",
+    year: " Ipsos Nigeria (2019 - 2021)",
+    title: " Senior Data Analyst",
+    desc: " Key contributor to major clients retention (NBL, ABinBev, Friesland, Beloxxi,Coca-Cola, Nestle, P&G and so on) with new initiative which increase revenue by 15% with a positive influence on profit margin. Trending and modelling of monthly Retail Audit Data.",
+    rate: "Full time",
+  },
+  {
+    id: 6,
+    category: "experience",
+    year: "Practical Sampling International (Jan 2011 - 2011) ",
+    title: "Data Processing Officer",
+    desc: "Data Management and quality check, collection and cleaning of Retail Census Data.",
+    rate: "Full time",
+  },
+  {
+    id: 6,
+    category: "experience",
+    year: "Market Trends International (May 2003 - 2005) ",
+    title: "Data Punching and Cleaning",
+    desc: "Data Capturing Using QPSM, Collation and numbering of Questionnaires, Data Cleaning.",
+    rate: "Full time",
+  },
+]
+
+export default ResumeApi
