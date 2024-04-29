@@ -83,6 +83,13 @@
   }
   .hero .right_img {
     width: 100%;
-    height: 54vh;
+    height: 380px;
+    width: 410px;
+  }
+  .hero .right_img img{
+    width: 400px;
+    height: 400px;
+    padding: 20px 40px;
+    margin-left: 50px;
   }
 }

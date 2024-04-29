@@ -21,4 +21,8 @@
     color: white;
     opacity: 1;
   }
-  
+  @media (max-width: 768px) {
+    .grid {
+      grid-template-columns: 1fr;
+    }
+  }
